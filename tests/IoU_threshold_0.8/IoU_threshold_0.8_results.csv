@@ -1,0 +1,6 @@
+Metric,Value
+metrics/precision(B),0.31785381399977475
+metrics/recall(B),0.3972398956871007
+metrics/mAP50(B),0.19781174886297634
+metrics/mAP50-95(B),0.15953934199013184
+fitness,0.1633665826774163

@@ -1,0 +1,11 @@
+names:
+- bio
+- glass
+- metals_and_plastics
+- non_recyclable
+- other
+- paper
+- unknown
+test: /home/hay.e/DeepLearning/Project/mini_project/imgs/TACO_DATASET/test/images
+train: /home/hay.e/DeepLearning/Project/mini_project/imgs/TACO_DATASET/train/images
+val: /home/hay.e/DeepLearning/Project/mini_project/imgs/TACO_DATASET/val/images
